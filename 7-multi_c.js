@@ -7,4 +7,3 @@ if (isNaN(count)) {
     console.log('C is fun');
   }
 }
-console.log("You passed:", process.argv[2]);
